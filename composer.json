@@ -10,7 +10,7 @@
     }],
     "require": {
         "guzzlehttp/guzzle": "^6",
-        "league/uri": "^5",
+        "league/uri": "^5.3",
         "nesbot/carbon": "~1.22",
         "php": ">=7.0",
         "symfony/css-selector": "^4",
